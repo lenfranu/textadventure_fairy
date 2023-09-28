@@ -12,7 +12,35 @@ namespace KnusperKnusperKnäuschen
         static void Main(string[] args)
         {
             //Abschnitt für das Titelbild
-           
+            Console.WriteLine();
+            Console.WriteLine();
+            Console.WriteLine();
+            Console.WriteLine();
+            Console.WriteLine();
+
+            Console.WriteLine("***********************************************************************************");
+            Console.WriteLine("***********************************************************************************");
+            Console.WriteLine("***********************************************************************************");
+
+            Console.WriteLine("                               Märchenwald                                         ");
+            Console.WriteLine("            Teste dein Wissen und erobere den Märchenwald                          ");
+
+            Console.WriteLine("***********************************************************************************");
+            Console.WriteLine("***********************************************************************************");
+            Console.WriteLine("***********************************************************************************");
+
+            Console.WriteLine("Drücke die a-Taste und bestätige mit der Enter-Taste um das Spiel zu starten!");
+            string starteingabe = Console.ReadLine();
+            if (starteingabe == "a")
+            {
+                //a wurde eingegeben, das Spiel startet
+                System.Console.Clear();
+            }
+            else
+            {
+                //falsche Eingabe! Das Spiel wird beendet
+                Console.WriteLine("Du hast nicht a eingegeben sonder" + starteingabe + "\n Das Spiel wird beendet. Versuch es nocheinmal!");
+            }
             //Disposition
             Console.WriteLine ("Nach einer langen Reise hast du endlich den Märchenwald erreicht! \n");
             Console.WriteLine ("Doch dein Abenteuer hat erst begonnen.");
@@ -77,6 +105,8 @@ namespace KnusperKnusperKnäuschen
                         else if (Land.ToLower() == "b")
                         {
                             Console.WriteLine("Du machst dich auf in Richtung Wunderland");
+                            Console.WriteLine("Vor dir erstreckt sich ein Garten voller weisser Rosen.");
+
 
                         }
                         break;
