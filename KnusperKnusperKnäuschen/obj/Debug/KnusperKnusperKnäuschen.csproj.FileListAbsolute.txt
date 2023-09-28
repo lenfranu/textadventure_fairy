@@ -1,0 +1,7 @@
+C:\Users\lfran\OneDrive\Documents\Master DCCMD\01_HS23\KREA\Programmierprojekte\KnusperKnusperKnäuschen\KnusperKnusperKnäuschen\obj\Debug\KnusperKnusperKnäuschen.csproj.AssemblyReference.cache
+C:\Users\lfran\OneDrive\Documents\Master DCCMD\01_HS23\KREA\Programmierprojekte\KnusperKnusperKnäuschen\KnusperKnusperKnäuschen\obj\Debug\KnusperKnusperKnäuschen.csproj.CoreCompileInputs.cache
+C:\Users\lfran\OneDrive\Documents\Master DCCMD\01_HS23\KREA\Programmierprojekte\KnusperKnusperKnäuschen\KnusperKnusperKnäuschen\bin\Debug\KnusperKnusperKnäuschen.exe.config
+C:\Users\lfran\OneDrive\Documents\Master DCCMD\01_HS23\KREA\Programmierprojekte\KnusperKnusperKnäuschen\KnusperKnusperKnäuschen\bin\Debug\KnusperKnusperKnäuschen.exe
+C:\Users\lfran\OneDrive\Documents\Master DCCMD\01_HS23\KREA\Programmierprojekte\KnusperKnusperKnäuschen\KnusperKnusperKnäuschen\bin\Debug\KnusperKnusperKnäuschen.pdb
+C:\Users\lfran\OneDrive\Documents\Master DCCMD\01_HS23\KREA\Programmierprojekte\KnusperKnusperKnäuschen\KnusperKnusperKnäuschen\obj\Debug\KnusperKnusperKnäuschen.exe
+C:\Users\lfran\OneDrive\Documents\Master DCCMD\01_HS23\KREA\Programmierprojekte\KnusperKnusperKnäuschen\KnusperKnusperKnäuschen\obj\Debug\KnusperKnusperKnäuschen.pdb
