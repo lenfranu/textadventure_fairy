@@ -11,7 +11,7 @@ namespace KnusperKnusperKnäuschen
     {
         static void Main(string[] args)
         {
-           //Abschnitt für das Titelbild
+            //Abschnitt für das Titelbild
            
             //Disposition
             Console.WriteLine ("Nach einer langen Reise hast du endlich den Märchenwald erreicht! \n");
